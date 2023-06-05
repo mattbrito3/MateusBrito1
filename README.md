@@ -1,5 +1,5 @@
 - 👋 Olá, sou Mateus Brito
-- 👀 Atualmente estudando HTML, CSS e JS.
+- 💻 Atualmente estudando HTML, CSS e JS.
 
 
 <!---
