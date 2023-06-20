@@ -5,7 +5,7 @@
 <div align="center">
  <a href="https://github.com/Mateusbrito1">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mateusbrito1&show_icons=true&theme=dark"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusbrito1&hide_progress=true&theme=dark"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusbrito1&theme=dark"/>
 </div>
  
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=6100ff)&nbsp;
