@@ -19,8 +19,8 @@ I'm a technology enthusiast and I'm constantly seeking to learn and improve my p
 </div>
 <div align="center">
  <a href="https://github.com/Mateusbrito1">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mateusbrito1&show_icons=true&theme=dracula"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusbrito1&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mateusbrito1&show_icons=true&theme=radical"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusbrito1&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 
