@@ -7,6 +7,9 @@
 
 📫 How to contact me: mateusbritocontact@gmail.com
 
+## ✨ About me
+I'm a technology enthusiast and I'm constantly seeking to learn and improve my programming skills. I believe that programming is a powerful way to create solutions and positively impact people's lives.
+
 ## 🛠 Skills
 <div align="left">
   <img height="25em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -20,6 +23,5 @@
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusbrito1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-## ✨ About me
-I'm a technology enthusiast and I'm constantly seeking to learn and improve my programming skills. I believe that programming is a powerful way to create solutions and positively impact people's lives.
+
 
