@@ -1,20 +1,25 @@
-## ✌️ Hi, i am Mateus.
-Welcome to my profile! I'm Mateus Gabriel, a programming student for 2 months and currently pursuing a degree in Analysis and Systems Development. My main focus is Front-end development, currently studying JavaScript, and I also have knowledge of HTML and CSS.
+##  🤙🏻 Hi, I'm Mateus Brito
+👩‍💻 I'm still studying and looking for work opportunities.
 
-## ✨ About me
-I'm a technology enthusiast and I'm constantly seeking to learn and improve my programming skills. I believe that programming is a powerful way to create solutions and positively impact people's lives.
+🧠 I'm learning: Javascript, HTML and CSS
 
-## 🚀 Goals
-My main goal is to become a well-rounded software developer, capable of creating modern and efficient web applications.
+👯‍♀️ I'm looking to collaborate on: Projects in web development
+
+📫 How to contact me: mateusbritocontact@gmail.com
 
 ## 🛠 Skills
+<div align="left">
+  <img height="25em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img height="25em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img height="25em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</div>
 <div align="center">
  <a href="https://github.com/Mateusbrito1">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mateusbrito1&show_icons=true&theme=dark"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusbrito1&layout=compact&langs_count=7&theme=dark"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mateusbrito1&show_icons=true&theme=dracula"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusbrito1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-
-
-
+  
+## ✨ About me
+I'm a technology enthusiast and I'm constantly seeking to learn and improve my programming skills. I believe that programming is a powerful way to create solutions and positively impact people's lives.
 
