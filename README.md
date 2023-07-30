@@ -2,7 +2,7 @@
 <br>
 👩‍💻 I'm still studying and looking for work opportunities.
 
-🧠 I'm learning: Javascript, HTML, CSS and ReactJS
+🧠 I'm learning: Javascript, HTML, CSS, ReactJS and Typescript
 
 👯‍♀️ I'm looking to collaborate on: Projects in web development
 
