@@ -1,4 +1,4 @@
-<h1>Hi, im Mateus Brito</h1>
+<h1>Hi there, i'am Mateus Brito 👋🏼</h1>
 👩‍💻 I'm still studying and looking for work opportunities.
 
 🧠 I'm learning: Java.
