@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Popins&size=28&pause=1000&color=5D46C0&width=435&lines=Hi%2C+im+Mateus+Brito)](https://git.io/typing-svg)
-<br>
+<h1>Hi, im Mateus Brito</h1>
 👩‍💻 I'm still studying and looking for work opportunities.
 
 🧠 I'm learning: Java.
