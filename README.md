@@ -1,7 +1,4 @@
 <h1>Hi there, I'm Mateus Brito 👋🏼</h1>
-👩‍💻 I'm still studying and looking for work opportunities.
-
-🧠 I'm learning: Java.
 
 🐱‍🏍Experience: Typescript, Javascript, React, NodeJS.
 
