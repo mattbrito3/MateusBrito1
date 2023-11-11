@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Mateus Brito 👋🏼</h1>
 
-🐱‍🏍Experience: Typescript, Javascript, React, NodeJS.
+🐱‍🏍Experience: Typescript, Javascript, React, NodeJS, Java, SpringBoot
 
 👯‍♀️ I'm looking to collaborate on: Projects in web development
 
