@@ -1,14 +1,15 @@
-Hi 👋 My name is Mateus Brito
-=============================
+# 👋 Hi, I'm Mateus Brito!  
 
-Dev Backend
------------
+### 💻 Backend Developer | Java & Spring Boot 
 
-I'm a technology enthusiast and I'm constantly seeking to learn and improve my programming skills. I believe that programming is a powerful way to create solutions and positively impact people's lives.
+I'm a **backend developer** passionate about **solving real-world problems through technology**. I'm always looking to improve my skills and deepen my understanding of **Java and Spring Boot** to build efficient and scalable applications.  
 
-* ✉️  You can contact me at [mateusbritocontact@gmail.com](mailto:mateusbritocontact@gmail.com)
-* 🧠  I'm learning Java, Springboot, SQL.
-* 🤝  I'm open to collaborating on projects that can give me experience
+- 🌱 Currently, I'm focused on improving my expertise in **backend development, software architecture, and best coding practices**.  
+- 🤝 I'm open to collaborating on **projects that challenge me and help me gain practical experience**.  
+- 📚 My goal is to write clean, maintainable code and develop solutions that are both efficient and reliable.  
+
+### 📫 Let's Connect!  
+✉️ Feel free to reach out to me at **[mateusbritocontact@gmail.com](mailto:mateusbritocontact@gmail.com)**
 
 ### Skills
 
